@@ -1,4 +1,5 @@
 # RapidoAppiumTest
 
 
-![2025-01-1908-52-22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dffbbea-83ff-49b3-aae3-a4e7707e7854)
+
+![2025-01-19 08-52-22](https://github.com/user-attachments/assets/7e617905-219e-4e83-a29e-9a1427a314a1)
