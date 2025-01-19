@@ -1,0 +1,5 @@
+Click on Where are you going? input text box
+Enter Majestic Bus Stand in Drop location input text box
+Select Majestic Bus Stand option from the list below Select on map button
+Click on Book Auto button
+Validate that text "Confirm Pickup" is present on the screen
